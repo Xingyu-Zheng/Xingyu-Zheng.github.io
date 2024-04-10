@@ -20,6 +20,18 @@ I am a senior student at Beihang University, supervised by Prof. [Xianglong Liu]
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BinaryDM: Towards Accurate Binarization of Diffusion Model](https://arxiv.org/abs/2404.05662)
+
+**Xingyu Zheng\***, Haotong Qin\*, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Xianglong Liu
+
+[**Project**](https://github.com/Xingyu-Zheng/BinaryDM)
+- This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/IR-QLoRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -27,7 +39,7 @@ I am a senior student at Beihang University, supervised by Prof. [Xianglong Liu]
 
 Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu, Michele Magno
 
-[**Project**](https://github.com/htqin/ir-qlora) <strong><span class='show_paper_citations' data='ISXNTf8AAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://github.com/htqin/ir-qlora)
 - This paper proposes a novel **IR-QLoRA** for pushing quantized LLMs with LoRA to be highly accurate through information retention.
 </div>
 </div>
@@ -39,7 +51,7 @@ Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Li
 
 Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xianglong Liu
 
-[**Project**](https://github.com/DIG-Beihang/InI-Model-Stealing-Defense) <strong><span class='show_paper_citations' data='ISXNTf8AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://github.com/DIG-Beihang/InI-Model-Stealing-Defense)
 - This paper proposes Isolation and Induction (**InI**), a novel and effective training framework for model stealing defenses.
 </div>
 </div>
