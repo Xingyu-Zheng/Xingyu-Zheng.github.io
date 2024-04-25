@@ -20,14 +20,26 @@ I am a senior student at Beihang University, supervised by Prof. [Xianglong Liu]
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLaMA3-Quant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study](https://arxiv.org/abs/2404.14047)
+
+Wei Huang\*, Xudong Ma\*, Haotong Qin, **Xingyu Zheng**, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
+
+[**Github**](https://github.com/Macaronlin/LLaMA3-Quantization)   [**Hugging Face**](https://huggingface.co/LLMQ) 
+- This paper explores LLaMA3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BinaryDM: Towards Accurate Binarization of Diffusion Model](https://arxiv.org/abs/2404.05662)
 
 **Xingyu Zheng\***, Haotong Qin\*, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Xianglong Liu
 
-[**Project**](https://github.com/Xingyu-Zheng/BinaryDM)
+[**Github**](https://github.com/Xingyu-Zheng/BinaryDM)
 - This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
 </div>
 </div>
@@ -39,7 +51,7 @@ I am a senior student at Beihang University, supervised by Prof. [Xianglong Liu]
 
 Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu, Michele Magno
 
-[**Project**](https://github.com/htqin/ir-qlora)
+[**Github**](https://github.com/htqin/ir-qlora)
 - This paper proposes a novel **IR-QLoRA** for pushing quantized LLMs with LoRA to be highly accurate through information retention.
 </div>
 </div>
@@ -51,7 +63,7 @@ Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Li
 
 Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xianglong Liu
 
-[**Project**](https://github.com/DIG-Beihang/InI-Model-Stealing-Defense)
+[**Github**](https://github.com/DIG-Beihang/InI-Model-Stealing-Defense)
 - This paper proposes Isolation and Induction (**InI**), a novel and effective training framework for model stealing defenses.
 </div>
 </div>
