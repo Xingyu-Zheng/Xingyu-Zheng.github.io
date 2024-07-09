@@ -69,9 +69,9 @@ Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xia
 </div>
 
 # 🎖 Honors
-- *2024* Excellent Undergraduate Graduation Thesis.
-- *2024* Excellent Graduate of Beihang University.
-- *2022* Lanqiao Cup, National First prize.
+- *2024*, Excellent Undergraduate Graduation Thesis.
+- *2024*, Excellent Graduate of Beihang University.
+- *2022*, Lanqiao Cup, National First prize.
 
 # 📖 Educations
 - *2024 -  now*, PhD student, Beihang University. 
