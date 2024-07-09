@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at Beihang University, supervised by Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). After participating in adversarial learning, I'm currently devoted to the quantization of pretrained large models. I hope to gain a deeper understanding of models, and in turn make them more efficient and robust.
+I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). I am currently focused on the practical application of large AIGC models such as LLM and Diffusion, including inference acceleration and model quantization. I hope that advanced technological methods can truly bring convenience to people's lives.
 
 # 📝 Publications 
 
