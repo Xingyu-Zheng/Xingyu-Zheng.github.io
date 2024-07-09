@@ -74,5 +74,5 @@ Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xia
 - *2022* Lanqiao Cup, National First prize.
 
 # 📖 Educations
-- *2024 - now*, PhD student, Beihang University. 
+- *2024 -  now*, PhD student, Beihang University. 
 - *2020 - 2024*, Undergrad student, Beihang University. 
