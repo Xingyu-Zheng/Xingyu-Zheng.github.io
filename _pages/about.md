@@ -32,10 +32,10 @@ Wei Huang\*, Xudong Ma\*, Haotong Qin, **Xingyu Zheng**, Chengtao Lv, Hong Chen,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.png' alt="sym" width="70%" left="15%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BinaryDM: Towards Accurate Binarization of Diffusion Model](https://arxiv.org/abs/2404.05662)
+[Towards Accurate Binarization of Diffusion Model](https://arxiv.org/abs/2404.05662)
 
 **Xingyu Zheng\***, Haotong Qin\*, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Xianglong Liu
 
@@ -68,5 +68,11 @@ Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xia
 </div>
 </div>
 
+# 🎖 Honors
+- *2024* Excellent Undergraduate Graduation Thesis.
+- *2024* Excellent Graduate of Beihang University.
+- *2022* Lanqiao Cup, National First prize.
+
 # 📖 Educations
-- *2020.09 - 2024.06 (now)*, Beihang University, Beijing. 
+- *2024 - now*, PhD student, Beihang University. 
+- *2020 - 2024*, Undergrad student, Beihang University. 
