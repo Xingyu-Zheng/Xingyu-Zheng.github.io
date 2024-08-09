@@ -23,7 +23,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLaMA3-Quant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study](https://arxiv.org/abs/2404.14047)
+[An Empirical Study of LLaMA3 Quantization: From LLMs to MLLMs](https://arxiv.org/abs/2404.14047)
 
 Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
 
