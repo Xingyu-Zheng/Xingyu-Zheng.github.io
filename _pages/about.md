@@ -25,7 +25,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 [How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study](https://arxiv.org/abs/2404.14047)
 
-Wei Huang\*, Xudong Ma\*, Haotong Qin, **Xingyu Zheng**, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
+Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
 
 [**Github**](https://github.com/Macaronlin/LLaMA3-Quantization)   [**Hugging Face**](https://huggingface.co/LLMQ) 
 - This paper explores LLaMA3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
