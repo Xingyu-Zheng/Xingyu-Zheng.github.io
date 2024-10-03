@@ -98,10 +98,10 @@ Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xia
 
 ## Book
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/InI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCIS</div><img src='images/GLOW_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DIsolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks](https://dl.acm.org/doi/abs/10.1145/3581783.3612092)
+[Generalizing from Limited Resources in the Open World](https://dl.acm.org/doi/abs/10.1145/3581783.3612092)
 
 Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Yantao Lu, Xianglong Liu
 
