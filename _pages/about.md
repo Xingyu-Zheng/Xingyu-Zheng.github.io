@@ -22,8 +22,9 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 ## 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS-logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/BiDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [BiDM: Pushing the Limit of Quantization for Diffusion Models](https://neurips.cc/virtual/2024/poster/93620)
 
