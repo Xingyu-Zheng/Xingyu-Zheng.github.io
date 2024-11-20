@@ -26,7 +26,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 <div class='paper-box-text' markdown="1">
 
 
-[BiDM: Pushing the Limit of Quantization for Diffusion Models](https://neurips.cc/virtual/2024/poster/93620)
+[BiDM: Pushing the Limit of Quantization for Diffusion Models](https://openreview.net/pdf?id=oWAItGB8LJ)
 
 **Xingyu Zheng**, Haotong Qin, Yichen Bian, Xudong Ma, Yulun Zhang, Jiakai Wang, Jinyang Guo, Xianglong Liu
 
