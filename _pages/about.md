@@ -26,9 +26,9 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 <div class='paper-box-text' markdown="1">
 
 
-[BiDM: Pushing the Limit of Quantization for Diffusion Models](https://openreview.net/pdf?id=oWAItGB8LJ)
+[BiDM: Pushing the Limit of Quantization for Diffusion Models](https://arxiv.org/abs/2412.05926)
 
-**Xingyu Zheng**, Haotong Qin, Yichen Bian, Xudong Ma, Yulun Zhang, Jiakai Wang, Jinyang Guo, Xianglong Liu
+**Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Yichen Bian, Xudong Ma, Yulun Zhang, Jiakai Wang, Jinyang Guo, Haotong Qin
 
 [**Github**](https://github.com/Xingyu-Zheng/BiDM)
 
@@ -38,33 +38,32 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM_Quant_Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](https://arxiv.org/abs/2409.16694)
 
-Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, **Xingyu Zheng**, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu
+Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, **Xingyu Zheng**, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
 - This paper presents a comprehensive **survey of low-bit quantization methods tailored for LLMs**, covering the fundamental principles, system implementations, and algorithmic strategies.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLaMA3-Quant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/LLaMA3-Quant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Empirical Study of LLaMA3 Quantization: From LLMs to MLLMs](https://arxiv.org/abs/2404.14047)
+[An Empirical Study of LLaMA3 Quantization: From LLMs to MLLMs](https://link.springer.com/article/10.1007/s44267-024-00070-x)
 
-Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
+Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin$^{\dagger}$, Chengtao Lv, Hong Chen, Jie Luo, Xiaojuan Qi, Xianglong Liu, Michele Magno
 
 [**Github**](https://github.com/Macaronlin/LLaMA3-Quantization)   [**Hugging Face**](https://huggingface.co/LLMQ) 
+
 - This paper explores LLaMA3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662)
 
-**Xingyu Zheng**, Xianglong Liu, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno
+**Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno
 
 [**Github**](https://github.com/Xingyu-Zheng/BinaryDM)
 - This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
@@ -73,10 +72,9 @@ Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin, Chengtao Lv, Hong Che
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Oral)</div><img src='images/IR-QLoRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](https://arxiv.org/abs/2402.05445)
 
-Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu, Michele Magno
+Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu$^{\dagger}$, Michele Magno
 
 [**Github**](https://github.com/htqin/ir-qlora)
 - This paper proposes a novel **IR-QLoRA** for pushing quantized LLMs with LoRA to be highly accurate through information retention.
@@ -90,7 +88,7 @@ Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Li
 
 [DIsolation and Induction: Training Robust Deep Neural Networks against Model Stealing Attacks](https://dl.acm.org/doi/abs/10.1145/3581783.3612092)
 
-Jun Guo, **Xingyu Zheng**, Aishan Liu, Siyuan Liang, Yisong Xiao, Yichao Wu, Xianglong Liu
+Jun Guo, **Xingyu Zheng**, Aishan Liu$^{\dagger}$, Siyuan Liang, Yisong Xiao, Yichao Wu, Xianglong Liu
 
 [**Github**](https://github.com/DIG-Beihang/InI-Model-Stealing-Defense)
 - This paper proposes Isolation and Induction (**InI**), a novel and effective training framework for model stealing defenses.
