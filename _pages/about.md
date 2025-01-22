@@ -20,7 +20,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 # 📝 Publications 
 
-## 2024
+## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -32,6 +32,8 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 - This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
 </div>
 </div>
+
+## 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/BiDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
