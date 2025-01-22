@@ -22,6 +22,17 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 ## 2024
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662)
+
+**Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno
+
+[**Github**](https://github.com/Xingyu-Zheng/BinaryDM)
+- This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/BiDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,17 +67,6 @@ Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin$^{\dagger}$, Chengtao 
 [**Github**](https://github.com/Macaronlin/LLaMA3-Quantization)   [**Hugging Face**](https://huggingface.co/LLMQ) 
 
 - This paper explores LLaMA3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662)
-
-**Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno
-
-[**Github**](https://github.com/Xingyu-Zheng/BinaryDM)
-- This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
 </div>
 </div>
 
