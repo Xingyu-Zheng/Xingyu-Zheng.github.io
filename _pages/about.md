@@ -22,6 +22,17 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 ## 2025
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[An Empirical Study of Qwen3 Quantization](https://arxiv.org/abs/2505.02214)
+
+**Xingyu Zheng\***, Yuye Li\*, Haoran Chu\*, Yue Feng\*, Xudong Ma, Jie Luo, Jinyang Guo, Haotong Qin$^{\dagger}$, Michele Magno, Xianglong Liu
+
+[**Github**](https://github.com/Efficient-ML/Qwen3-Quantization)   [**Hugging Face**](https://huggingface.co/collections/Efficient-ML/qwen3-quantization-68164450decb1c868788cb2b) 
+- This paper explores Qwen3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/BinaryDM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](https://arxiv.org/abs/2404.05662)
