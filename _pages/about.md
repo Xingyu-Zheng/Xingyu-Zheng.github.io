@@ -22,6 +22,18 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 ## 2025
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LLM_Quant_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](https://arxiv.org/abs/2409.16694)
+
+Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, **Xingyu Zheng**, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
+
+- This paper presents a comprehensive **survey of low-bit quantization methods tailored for LLMs**, covering the fundamental principles, system implementations, and algorithmic strategies.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [An Empirical Study of Qwen3 Quantization](https://arxiv.org/abs/2505.02214)
@@ -39,7 +51,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 **Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno
 
-[**Github**](https://github.com/Xingyu-Zheng/BinaryDM)
+[**Github**](https://github.com/Xingyu-Zheng/BinaryDM) [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleSlim/tree/develop/example/BinaryDM)
 - This paper proposes **BinaryDM**, a novel accurate quantization-aware training approach to push the weights of diffusion models towards the limit of 1-bit.
 </div>
 </div>
@@ -57,16 +69,6 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 [**Github**](https://github.com/Xingyu-Zheng/BiDM)
 
 - This paper proposes a novel method, namely **BiDM**, for fully binarizing weights and activations of DMs, pushing quantization to the 1-bit limit.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/LLM_Quant_Survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](https://arxiv.org/abs/2409.16694)
-
-Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, **Xingyu Zheng**, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
-
-- This paper presents a comprehensive **survey of low-bit quantization methods tailored for LLMs**, covering the fundamental principles, system implementations, and algorithmic strategies.
 </div>
 </div>
 
@@ -123,11 +125,13 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 
 
 # 🎖 Honors
+- *2025*, Tencent Rhino-Bird Elite Training Program.
 - *2024*, Honor Student of Beihang University.
 - *2024*, Excellent Undergraduate Graduation Thesis.
 - *2024*, Excellent Graduate of Beihang University.
 - *2022*, Lanqiao Cup, National First prize.
 
 # 📖 Educations
-- *2024 -  now*, PhD student, Beihang University. 
-- *2020 - 2024*, Undergrad student, Beihang University. 
+- *2024 -  now*, PhD student, Zhongguancun Academy.
+- *2024 -  now*, PhD student, Beihang University.
+- *2020 - 2024*, Undergrad student, Beihang University.
