@@ -23,6 +23,18 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 ## 2025
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FOEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[https://arxiv.org/abs/2507.11017](https://arxiv.org/abs/2507.11017)
+
+**Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
+
+[**Github**](https://github.com/Xingyu-Zheng/FOEM)
+- This paper proposes FOEM, a novel PTQ method for LLM that explicitly incorporates first-order gradient terms to improve quantization error compensation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LLM_Quant_Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms](https://arxiv.org/abs/2409.16694)
