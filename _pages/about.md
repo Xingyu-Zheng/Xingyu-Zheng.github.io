@@ -25,7 +25,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/FOEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[https://arxiv.org/abs/2507.11017](https://arxiv.org/abs/2507.11017)
+[First-Order Error Matters: Accurate Compensation for Quantized Large Language Models](https://arxiv.org/abs/2507.11017)
 
 **Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
