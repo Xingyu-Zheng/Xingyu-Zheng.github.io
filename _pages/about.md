@@ -147,3 +147,10 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 - *2024 -  now*, PhD student, Zhongguancun Academy.
 - *2024 -  now*, PhD student, Beihang University.
 - *2020 - 2024*, Undergrad student, Beihang University.
+
+# 💬 Academic Activities
+- *2025.08*, Organizer, [Practical-DL 2025](https://practical-dl.github.io/).
+- *2024.08*, Publicity Chair, [GLOW 2024](https://glow-ijcai.github.io/).
+
+# 💻 Internships
+- *2025.08 - now*, Tencent, Shanghai.
