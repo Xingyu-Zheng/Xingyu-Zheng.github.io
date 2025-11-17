@@ -144,7 +144,6 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 - *2022*, Lanqiao Cup, National First prize.
 
 # 📖 Educations
-- *2024 -  now*, PhD student, Zhongguancun Academy.
 - *2024 -  now*, PhD student, Beihang University.
 - *2020 - 2024*, Undergrad student, Beihang University.
 
