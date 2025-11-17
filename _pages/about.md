@@ -27,7 +27,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 <div class='paper-box-text' markdown="1">
 [First-Order Error Matters: Accurate Compensation for Quantized Large Language Models](https://arxiv.org/abs/2507.11017)
 
-**Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
+**Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Haoran Chu, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
 [**Github**](https://github.com/Xingyu-Zheng/FOEM) [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleNLP/pull/10958/commits/b84d22ff499f72434d1c7cb095207d562b2693c8)
 - This paper proposes FOEM, a novel PTQ method for LLM that explicitly incorporates first-order gradient terms to improve quantization error compensation.
@@ -103,7 +103,7 @@ Wei Huang\*, **Xingyu Zheng\***, Xudong Ma\*, Haotong Qin$^{\dagger}$, Chengtao 
 
 Haotong Qin\*, Xudong Ma\*, **Xingyu Zheng**, Xiaoyang Li, Yang Zhang, Shouda Liu, Jie Luo, Xianglong Liu$^{\dagger}$, Michele Magno
 
-[**Github**](https://github.com/htqin/ir-qlora)
+[**Github**](https://github.com/htqin/ir-qlora) [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleNLP/pull/10958/commits/32ac577526940ba5532a1ddd771094fe49cec50f)
 - This paper proposes a novel **IR-QLoRA** for pushing quantized LLMs with LoRA to be highly accurate through information retention.
 </div>
 </div>
