@@ -20,7 +20,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 # 📝 Publications 
 
-## 2025
+## 2026
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
@@ -33,6 +33,8 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 - This paper explores Qwen3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
 </div>
 </div>
+
+## 2025
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FOEM.png' alt="sym" width="100%"></div></div>
