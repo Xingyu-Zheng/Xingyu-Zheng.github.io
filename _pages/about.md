@@ -23,6 +23,18 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 ## 2025
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[An Empirical Study of Qwen3 Quantization](https://arxiv.org/abs/2505.02214)
+
+**Xingyu Zheng**, Yuye Li, Haoran Chu, Yue Feng, Xudong Ma, Jie Luo, Jinyang Guo, Haotong Qin$^{\dagger}$, Michele Magno, Xianglong Liu
+
+[**Github**](https://github.com/Efficient-ML/Qwen3-Quantization)   [**Hugging Face**](https://huggingface.co/collections/Efficient-ML/qwen3-quantization-68164450decb1c868788cb2b) 
+- This paper explores Qwen3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FOEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [First-Order Error Matters: Accurate Compensation for Quantized Large Language Models](https://arxiv.org/abs/2507.11017)
@@ -42,18 +54,6 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 Ruihao Gong, Yifu Ding, Zining Wang, Chengtao Lv, **Xingyu Zheng**, Jinyang Du, Haotong Qin, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
 - This paper presents a comprehensive **survey of low-bit quantization methods tailored for LLMs**, covering the fundamental principles, system implementations, and algorithmic strategies.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[An Empirical Study of Qwen3 Quantization](https://arxiv.org/abs/2505.02214)
-
-**Xingyu Zheng\***, Yuye Li\*, Haoran Chu\*, Yue Feng\*, Xudong Ma, Jie Luo, Jinyang Guo, Haotong Qin$^{\dagger}$, Michele Magno, Xianglong Liu
-
-[**Github**](https://github.com/Efficient-ML/Qwen3-Quantization)   [**Hugging Face**](https://huggingface.co/collections/Efficient-ML/qwen3-quantization-68164450decb1c868788cb2b) 
-- This paper explores Qwen3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
 </div>
 </div>
 
