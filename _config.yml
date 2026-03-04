@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xingyu Zheng"
-description              : "Xingyu-Zheng / HomePage"
+title                    : "Xingyu Zheng (郑星宇)"
+description              : "Efficient ML"
 repository               : "Xingyu-Zheng/Xingyu-Zheng.github.io"
 google_scholar_stats_use_cdn : true
 
