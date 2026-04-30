@@ -34,8 +34,6 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 </div>
 </div>
 
-## 2025
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/FOEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,10 +41,12 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 
 **Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Haoran Chu, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
-[**GPTQModel**](https://github.com/ModelCloud/GPTQModel) [**Github**](https://github.com/Xingyu-Zheng/FOEM) [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleNLP/pull/10958/commits/b84d22ff499f72434d1c7cb095207d562b2693c8)
+[**GPTQModel**](https://github.com/ModelCloud/GPTQModel)    [**Github**](https://github.com/Xingyu-Zheng/FOEM)    [**Hugging Face**](https://huggingface.co/Xingyu-Zheng/models?sort=downloads)    [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleNLP/pull/10958/commits/b84d22ff499f72434d1c7cb095207d562b2693c8)
 - This paper proposes FOEM, a novel PTQ method for LLM that explicitly incorporates first-order gradient terms to improve quantization error compensation.
 </div>
 </div>
+
+## 2025
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/LLM_Quant_Survey.png' alt="sym" width="100%"></div></div>
