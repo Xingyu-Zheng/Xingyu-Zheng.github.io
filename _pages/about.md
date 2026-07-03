@@ -23,14 +23,26 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 ## 2026
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mrflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling](https://arxiv.org/abs/2607.01642)
+
+**Xingyu Zheng**, Xianglong Liu$^{\dagger}$, Yifu Ding, Weilun Feng, Junqing Lin, Jinyang Guo, Haotong Qin
+
+[**Github**](https://github.com/Xingyu-Zheng/MrFlow)   [**Hugging Face**](https://huggingface.co/papers/2607.01642) 
+- This paper proposes a training-free multi-resolution strategy, **MrFlow**, for accelerating image generation, achieving faithful generation with up to 10x end-to-end speedup.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence</div><img src='images/qwen3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[An Empirical Study of Qwen3 Quantization](https://arxiv.org/abs/2505.02214)
+[An Empirical Study of Qwen3 Quantization](https://link.springer.com/article/10.1007/s44267-026-00114-4)
 
 **Xingyu Zheng**, Yuye Li, Haoran Chu, Yue Feng, Xudong Ma, Jie Luo, Jinyang Guo, Haotong Qin$^{\dagger}$, Michele Magno, Xianglong Liu
 
 [**Github**](https://github.com/Efficient-ML/Qwen3-Quantization)   [**Hugging Face**](https://huggingface.co/collections/Efficient-ML/qwen3-quantization-68164450decb1c868788cb2b) 
-- This paper explores Qwen3's capabilities when quantized to low bit-width, demonstrating its value in advancing future models.
+- This paper explores **Qwen3's capabilities when quantized** to low bit-width, demonstrating its value in advancing future models.
 </div>
 </div>
 
@@ -42,7 +54,7 @@ I am a PhD student at Beihang University, supervised by Prof. [Xianglong Liu](ht
 **Xingyu Zheng\***, Haotong Qin\*, Yuye Li, Haoran Chu, Jiakai Wang, Jinyang Guo, Michele Magno, Xianglong Liu$^{\dagger}$
 
 [**GPTQModel**](https://github.com/ModelCloud/GPTQModel)    [**Github**](https://github.com/Xingyu-Zheng/FOEM)    [**Hugging Face**](https://huggingface.co/Xingyu-Zheng/models?sort=downloads)    [**PaddlePaddle**](https://github.com/PaddlePaddle/PaddleNLP/pull/10958/commits/b84d22ff499f72434d1c7cb095207d562b2693c8)
-- This paper proposes FOEM, a novel PTQ method for LLM that explicitly incorporates first-order gradient terms to improve quantization error compensation.
+- This paper proposes **FOEM**, a novel PTQ method for LLM that explicitly incorporates first-order gradient terms to improve quantization error compensation.
 </div>
 </div>
 
