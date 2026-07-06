@@ -151,7 +151,8 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 
 
 # 🎖 Honors
-- *2025*, Tencent Rhino-Bird Elite Training Program.
+- *2026*, ByteDance Global Frontier Tech Recruitment Program (字节跳动前沿技术领域人才计划; 原 ByteDance Soaring Star Talent Program, 筋斗云人才计划).
+- *2025*, Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划).
 - *2024*, Honor Student of Beihang University.
 - *2024*, Excellent Undergraduate Graduation Thesis.
 - *2024*, Excellent Graduate of Beihang University.
@@ -166,4 +167,4 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 - *2024.08*, Publicity Chair, [GLOW 2024](https://glow-ijcai.github.io/).
 
 # 💻 Internships
-- *2025.08 - now*, Tencent, Shanghai.
+- *2025.08 - 2026.07*, Tencent, Shanghai.
