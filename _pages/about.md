@@ -167,4 +167,5 @@ Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Ya
 - *2024.08*, Publicity Chair, [GLOW 2024](https://glow-ijcai.github.io/).
 
 # 💻 Internships
+- *2026.07 - now*, ByteDance, Beijing.
 - *2025.08 - 2026.07*, Tencent, Shanghai.
