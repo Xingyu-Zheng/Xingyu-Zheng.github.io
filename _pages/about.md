@@ -186,38 +186,26 @@ This paper proposes Isolation and Induction (**InI**), a novel and effective tra
 
 Jinyang Guo, Yuqing Ma, Yifu Ding, Ruihao Gong, **Xingyu Zheng**, Changyi He, Yantao Lu, Xianglong Liu
 
-This book presents the Proceedings from the Second International Workshop **GLOW 2024** held in conjunction with the International Joint Conference on Artificial Intelligence, IJCAI 2024, in Jeju Island, South Korea, in August 2024.
-    </div>
-  </div>
-</section>
+- This book presents the Proceedings from the Second International Workshop **GLOW 2024** held in conjunction with the International Joint Conference on Artificial Intelligence, IJCAI 2024, in Jeju Island, South Korea, in August 2024.
+</div>
+</div>
 
-<section class="timeline-grid">
-  <div class="timeline-card">
-    <div class="section-heading compact">
-      <span>Recognition</span>
-      <h2>Honors</h2>
-    </div>
-    <ul>
-      <li><strong>2026</strong>, ByteDance Global Frontier Tech Recruitment Program.</li>
-      <li><strong>2025</strong>, Tencent Rhino-Bird Elite Training Program.</li>
-      <li><strong>2024</strong>, Honor Student of Beihang University.</li>
-      <li><strong>2024</strong>, Excellent Undergraduate Graduation Thesis.</li>
-      <li><strong>2024</strong>, Excellent Graduate of Beihang University.</li>
-      <li><strong>2022</strong>, Lanqiao Cup, National First prize.</li>
-    </ul>
-  </div>
 
-  <div class="timeline-card">
-    <div class="section-heading compact">
-      <span>Background</span>
-      <h2>Experience</h2>
-    </div>
-    <ul>
-      <li><strong>2025.08 - 2026.07</strong>, Tencent, Shanghai.</li>
-      <li><strong>2025.08</strong>, Organizer, <a href="https://practical-dl.github.io/">Practical-DL 2025</a>.</li>
-      <li><strong>2024.08</strong>, Publicity Chair, <a href="https://glow-ijcai.github.io/">GLOW 2024</a>.</li>
-      <li><strong>2024 - now</strong>, PhD student, Beihang University.</li>
-      <li><strong>2020 - 2024</strong>, Undergraduate student, Beihang University.</li>
-    </ul>
-  </div>
-</section>
+# 🎖 Honors
+- *2026*, ByteDance Global Frontier Tech Recruitment Program (字节跳动前沿技术领域人才计划; formerly ByteDance Soaring Star Talent Program, 筋斗云人才计划).
+- *2025*, Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划).
+- *2024*, Honor Student of Beihang University.
+- *2024*, Excellent Undergraduate Graduation Thesis.
+- *2024*, Excellent Graduate of Beihang University.
+- *2022*, Lanqiao Cup, National First prize.
+
+# 📖 Educations
+- *2024 -  now*, PhD student, Beihang University.
+- *2020 - 2024*, Undergrad student, Beihang University.
+
+# 💬 Academic Activities
+- *2025.08*, Organizer, [Practical-DL 2025](https://practical-dl.github.io/).
+- *2024.08*, Publicity Chair, [GLOW 2024](https://glow-ijcai.github.io/).
+
+# 💻 Internships
+- *2025.08 - 2026.07*, Tencent, Shanghai.
