@@ -89,6 +89,10 @@ body {
   margin-top: 2.4em;
 }
 
+[id] {
+  scroll-margin-top: 6rem;
+}
+
 .page__content {
   line-height: 1.68;
 }
@@ -144,7 +148,8 @@ body {
 .sidebar .author__name {
   color: var(--ink);
   font-weight: 800;
-  letter-spacing: -0.03em;
+  letter-spacing: 0;
+  white-space: nowrap;
 }
 
 .author__bio,
@@ -164,10 +169,20 @@ body {
 }
 
 @include breakpoint($large) {
+  .sidebar {
+    width: 24%;
+  }
+
+  .page {
+    width: 72%;
+    padding-left: 0;
+  }
+
   .profile_box {
     display: block;
     position: sticky;
     top: 5.5rem;
+    padding: 1.15rem;
   }
 
   .author__avatar {
@@ -176,6 +191,16 @@ body {
 
   .author__content {
     padding-left: 0;
+  }
+
+  .sidebar .author__name {
+    font-size: 1.15rem;
+  }
+}
+
+@include breakpoint($x-large) {
+  .sidebar .author__name {
+    font-size: 1.25rem;
   }
 }
 

@@ -184,14 +184,14 @@ redirect_from:
 </section>
 
 <section class="timeline-grid">
-  <div class="timeline-card">
+  <div class="timeline-card" id="honors">
     <div class="section-heading compact">
       <span>Honors</span>
       <h2>Awards</h2>
     </div>
     <ul>
-      <li><strong>2026</strong>, ByteDance Global Frontier Tech Recruitment Program.</li>
-      <li><strong>2025</strong>, Tencent Rhino-Bird Elite Training Program.</li>
+      <li><strong>2026</strong>, ByteDance Global Frontier Tech Recruitment Program (字节跳动前沿技术领域人才计划; formerly ByteDance Soaring Star Talent Program, 筋斗云人才计划).</li>
+      <li><strong>2025</strong>, Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划).</li>
       <li><strong>2024</strong>, Honor Student of Beihang University.</li>
       <li><strong>2024</strong>, Excellent Undergraduate Graduation Thesis.</li>
       <li><strong>2024</strong>, Excellent Graduate of Beihang University.</li>
@@ -199,7 +199,7 @@ redirect_from:
     </ul>
   </div>
 
-  <div class="timeline-card">
+  <div class="timeline-card" id="educations">
     <div class="section-heading compact">
       <span>Education</span>
       <h2>Background</h2>
@@ -210,7 +210,7 @@ redirect_from:
     </ul>
   </div>
 
-  <div class="timeline-card">
+  <div class="timeline-card" id="activities">
     <div class="section-heading compact">
       <span>Service</span>
       <h2>Activities</h2>
@@ -221,12 +221,13 @@ redirect_from:
     </ul>
   </div>
 
-  <div class="timeline-card">
+  <div class="timeline-card" id="internships">
     <div class="section-heading compact">
       <span>Experience</span>
       <h2>Internships</h2>
     </div>
     <ul>
+      <li><strong>2026.07 - now</strong>, ByteDance, Beijing.</li>
       <li><strong>2025.08 - 2026.07</strong>, Tencent, Shanghai.</li>
     </ul>
   </div>
