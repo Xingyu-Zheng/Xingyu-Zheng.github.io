@@ -97,7 +97,7 @@ body {
 .page__content h2,
 .page__content h3 {
   color: var(--ink);
-  letter-spacing: -0.035em;
+  letter-spacing: 0;
 }
 
 .page__content a {
@@ -372,16 +372,40 @@ body {
   border: 1px solid #e8edf5;
 }
 
-.paper-box-text p:first-child {
+.paper-box-text h4 {
   margin-top: 0;
+  margin-bottom: 0.55rem;
   font-size: 1.05rem;
   font-weight: 800;
   line-height: 1.35;
 }
 
+.paper-box-text h4 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.paper-box-text h4 a:hover {
+  color: var(--brand);
+  text-decoration: underline;
+}
+
 .paper-box-text p,
 .paper-box-text li {
   color: var(--muted);
+}
+
+.paper-box-text p {
+  margin-bottom: 0.65rem;
+}
+
+.paper-box-text p:last-child {
+  margin-bottom: 0;
+}
+
+.paper-links a {
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .badge {
