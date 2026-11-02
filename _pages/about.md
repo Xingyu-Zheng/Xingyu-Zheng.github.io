@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+description: "郑星宇（Xingyu Zheng）的个人主页。北京航空航天大学博士生，研究大语言模型量化与扩散模型加速。Personal homepage of Xingyu Zheng, a PhD student at Beihang University working on LLM quantization and diffusion acceleration."
 author_profile: true
 redirect_from:
   - /about/

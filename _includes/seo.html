@@ -13,6 +13,7 @@
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
+  <meta name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
@@ -38,8 +39,38 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": {{ "/#profile" | prepend: seo_url | jsonify }},
+  "url": {{ "/" | prepend: seo_url | jsonify }},
+  "name": {{ site.title | jsonify }},
+  "mainEntity": {
+    "@type": "Person",
+    "@id": {{ "/#person" | prepend: seo_url | jsonify }},
+    "name": {{ site.author.english_name | jsonify }},
+    "alternateName": {{ site.author.chinese_name | jsonify }},
+    "url": {{ "/" | prepend: seo_url | jsonify }},
+    "image": {{ site.author.avatar | prepend: "/" | prepend: seo_url | jsonify }},
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Beihang University",
+      "alternateName": "北京航空航天大学"
+    },
+    "sameAs": [
+      {{ site.author.github | prepend: "https://github.com/" | jsonify }},
+      {{ site.author.googlescholar | jsonify }},
+      {{ site.author.orcid | jsonify }}
+    ]
+  }
+}
+</script>
 {% endif %}
 
 {% if site.twitter.username %}

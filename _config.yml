@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Xingyu Zheng (郑星宇)"
+url                      : "https://xingyu-zheng.github.io"
 description              : "Efficient ML"
 repository               : "Xingyu-Zheng/Xingyu-Zheng.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,6 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xingyu Zheng (郑星宇)"
+  english_name     : "Xingyu Zheng"
+  chinese_name     : "郑星宇"
   avatar           : "images/c21a3b6ce8cabd8d721f68a746947a83.jpg"
   bio              : "Beihang University"
   location         : "Beijing, China"
