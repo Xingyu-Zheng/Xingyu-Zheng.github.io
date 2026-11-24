@@ -191,6 +191,7 @@ redirect_from:
       <h2>Awards</h2>
     </div>
     <ul>
+      <li><strong>2026</strong>, Tencent Rhino-Bird Elite Talent (腾讯犀牛鸟精英人才).</li>
       <li><strong>2026</strong>, ByteDance Global Frontier Tech Recruitment Program (字节跳动前沿技术领域人才计划; formerly ByteDance Soaring Star Talent Program, 筋斗云人才计划).</li>
       <li><strong>2025</strong>, Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划).</li>
       <li><strong>2024</strong>, Honor Student of Beihang University.</li>
